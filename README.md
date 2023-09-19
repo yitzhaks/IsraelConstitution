@@ -1,2 +1,3 @@
-# IsraelConstitution
-An open-source proposition for a constitution for Israel
+# Israel Constitution
+
+An open-source proposition for a constitution for Israel.
