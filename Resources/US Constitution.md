@@ -1,3 +1,15 @@
+<!-- markdownlint-disable line-length -->
+<!-- markdownlint-configure-file
+{
+  "no-duplicate-header": {
+    "siblings_only": true
+  },
+  "no-trailing-punctuation": {
+    "punctuation": ",;:!"
+  }
+}
+-->
+
 # The Constitution of the United States and its amendments
 
 ## The Constitution of the United States
@@ -242,82 +254,82 @@ Attest William Jackson Secretary
 
 ---
 
-G°. Washington<br>
+G°. Washington  
 Presidt and deputy from Virginia
 
-##### Delaware
+#### Delaware
 
-Geo: Read<br>
-Gunning Bedford jun<br>
-John Dickinson<br>
-Richard Bassett<br>
-Jaco: Broom<br>
+Geo: Read  
+Gunning Bedford jun  
+John Dickinson  
+Richard Bassett  
+Jaco: Broom  
 
-##### Maryland
+#### Maryland
 
-James McHenry<br>
-Dan of St Thos. Jenifer<br>
-Danl. Carroll<br>
+James McHenry  
+Dan of St Thos. Jenifer  
+Danl. Carroll  
 
-##### Virginia
+#### Virginia
 
-John Blair<br>
-James Madison Jr.<br>
+John Blair  
+James Madison Jr.  
 
-##### North Carolina
+#### North Carolina
 
-Wm. Blount<br>
-Richd. Dobbs Spaight<br>
-Hu Williamson<br>
+Wm. Blount  
+Richd. Dobbs Spaight  
+Hu Williamson  
 
-##### South Carolina
+#### South Carolina
 
-J. Rutledge<br>
-Charles Cotesworth Pinckney<br>
-Charles Pinckney<br>
-Pierce Butler<br>
+J. Rutledge  
+Charles Cotesworth Pinckney  
+Charles Pinckney  
+Pierce Butler  
 
-##### Georgia
+#### Georgia
 
-William Few<br>
-Abr Baldwin<br>
+William Few  
+Abr Baldwin  
 
-##### New Hampshire
+#### New Hampshire
 
-John Langdon<br>
-Nicholas Gilman<br>
+John Langdon  
+Nicholas Gilman  
 
-##### Massachusetts
+#### Massachusetts
 
-Nathaniel Gorham<br>
-Rufus King<br>
+Nathaniel Gorham  
+Rufus King  
 
-##### Connecticut
+#### Connecticut
 
-Wm. Saml. Johnson<br>
-Roger Sherman<br>
+Wm. Saml. Johnson  
+Roger Sherman  
 
-##### New York
+#### New York
 
-Alexander Hamilton<br>
+Alexander Hamilton  
 
-##### New Jersey
+#### New Jersey
 
-Wil: Livingston<br>
-David Brearley<br>
-Wm. Paterson<br>
-Jona: Dayton<br>
+Wil: Livingston  
+David Brearley  
+Wm. Paterson  
+Jona: Dayton  
 
-##### Pennsylvania
+#### Pennsylvania
 
-B Franklin<br>
-Thomas Mifflin<br>
-Robt. Morris<br>
-Geo. Clymer<br>
-Thos. FitzSimons<br>
-Jared Ingersoll<br>
-James Wilson<br>
-Gouv Morris<br>
+B Franklin  
+Thomas Mifflin  
+Robt. Morris  
+Geo. Clymer  
+Thos. FitzSimons  
+Jared Ingersoll  
+James Wilson  
+Gouv Morris  
 
 ## The Bill of Rights (Amendments 1-10)
 
